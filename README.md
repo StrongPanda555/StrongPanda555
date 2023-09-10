@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @StrongPanda555
-- 👀 I’m interested in Ren'Py
-- 🌱 I’m currently learning Ren'Py
-- 💞️ I’m looking to collaborate on Ren'Py
-- 📫 How to reach me https://www.patreon.com/strongpanda
+- 👀 I’m interested in game development.
+- 🌱 I’m currently working on an adult video game using Ren'Py.
+- 💞️ I’m looking to collaborate on whatever.
+- 📫 How to reach me @Strong_Panda555
 
 <!---
 StrongPanda555/StrongPanda555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
